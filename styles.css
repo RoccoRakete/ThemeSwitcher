@@ -1,0 +1,17 @@
+.menu-label {}
+
+.menu-dropdown {
+  padding: 10px;
+}
+
+.title-label {
+  padding: 10px;
+  font-size: 2em;
+  background-color: #11111B;
+}
+
+
+.menu-bar {
+  margin: 0;
+  background-color: #11111B;
+}
